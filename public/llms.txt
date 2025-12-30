@@ -1,0 +1,57 @@
+# שוטגן כביסה פלוגה א — Generative Engine Optimization Map
+
+> A מערכות ניהול ותורים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-db7ecabb.zappy5.app
+מערכת ניהול תורים לכביסה חכמה ופשוטה. הרשמה מהירה, ביטול הרשמה קל, וניהול מכונת כביסה משותפת בפלוגה.
+
+### השירותים שלנו
+https://-db7ecabb.zappy5.app/services
+גלו את כל התכונות של מערכת ניהול תורים לכביסה שלנו - הרשמה אונליין, ביטול הרשמה גמיש, התראות חכמות ועוד.
+
+### אודות
+https://-db7ecabb.zappy5.app/about
+הכירו את הצוות מאחורי מערכת ניהול תורים לכביסה המתקדמת. המשימה שלנו: להפוך ביטול הרשמה וניהול תורים לפשוט וקל.
+
+### צור קשר
+https://-db7ecabb.zappy5.app/contact
+יש שאלות על מערכת ניהול תורים לכביסה? צריכים עזרה עם ביטול הרשמה? צרו איתנו קשר ונשמח לעזור.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-db7ecabb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-db7ecabb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-db7ecabb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שוטגן כביסה פלוגה א
+שוטגן כביסה פלוגה א is a business in the מערכות ניהול ותורים industry.
+
+## Target Audience
+בנות בפלוגה
+
+## Industry
+מערכות ניהול ותורים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-db7ecabb.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-db7ecabb.zappy5.app/robots.txt
